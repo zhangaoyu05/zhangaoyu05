@@ -62,16 +62,18 @@ const zayu = {
 
 ## 📊 GitHub Stats
 
+Statistics cover public, non-fork repositories. Language shares are measured by code bytes.
+
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=zhangaoyu05&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=zhangaoyu05&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zhangaoyu05/zhangaoyu05/output/github-stats-dark.svg" />
+  <img width="495" height="235" alt="GitHub statistics for public non-fork repositories" src="https://raw.githubusercontent.com/zhangaoyu05/zhangaoyu05/output/github-stats.svg"/>
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zhangaoyu05&layout=compact&langs_count=8&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zhangaoyu05&layout=compact&langs_count=8&theme=default"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zhangaoyu05/zhangaoyu05/output/top-langs-dark.svg" />
+  <img width="495" height="235" alt="Most used languages by code bytes" src="https://raw.githubusercontent.com/zhangaoyu05/zhangaoyu05/output/top-langs.svg"/>
 </picture>
 
 </div>

@@ -1,9 +1,19 @@
-name: Generate Snake
+name: Generate Profile Assets
 
 on:
+  push:
+    branches: [main]
+    paths:
+      - "README.md"
+      - ".github/workflows/snake.yml"
+      - ".github/scripts/generate_stats.py"
   schedule:
     - cron: "0 0 * * *" # 每天自动运行一次
   workflow_dispatch: # 允许手动触发
+
+concurrency:
+  group: profile-assets
+  cancel-in-progress: false
 
 permissions:
   contents: write
@@ -11,9 +21,16 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+
+      - name: Generate statistics cards
+        run: python3 .github/scripts/generate_stats.py --username "$PROFILE_OWNER" --output dist
+        env:
+          PROFILE_OWNER: ${{ github.repository_owner }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate Snake
         uses: Platane/snk@v3
