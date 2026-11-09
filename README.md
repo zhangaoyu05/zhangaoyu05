@@ -9,8 +9,8 @@
 </p>
 
 <!-- 社交徽章 -->
-[![GitHub followers](https://img.shields.io/github/followers/Zayu2005?style=social)](https://github.com/Zayu2005)
-[![GitHub stars](https://img.shields.io/github/stars/Zayu2005?style=social)](https://github.com/Zayu2005)
+[![GitHub followers](https://img.shields.io/github/followers/zhangaoyu05?style=social)](https://github.com/zhangaoyu05)
+[![GitHub stars](https://img.shields.io/github/stars/zhangaoyu05?style=social)](https://github.com/zhangaoyu05)
 
 </div>
 
@@ -33,7 +33,7 @@ const zayu = {
 - 🔭 I'm currently working on **Personal Projects**
 - 🌱 I'm currently learning **Machine Learning & Deep Learning**
 - 💬 Ask me about **Java, Python, JavaScript, Vue, Spring**
-- 📫 How to reach me: **[zayy2005x@gmail.com](mailto:zayy2005x@gmail.com)**
+- 📫 How to reach me: **[aoyuzhang05@163.com](mailto:aoyuzhang05@163.com)**
 
 ---
 
@@ -65,13 +65,13 @@ const zayu = {
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=Zayu2005&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Zayu2005&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=zhangaoyu05&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=zhangaoyu05&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Zayu2005&layout=compact&langs_count=8&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Zayu2005&layout=compact&langs_count=8&theme=default"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zhangaoyu05&layout=compact&langs_count=8&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zhangaoyu05&layout=compact&langs_count=8&theme=default"/>
 </picture>
 
 </div>
@@ -79,8 +79,8 @@ const zayu = {
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Zayu2005&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com?user=Zayu2005&theme=default"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=zhangaoyu05&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=zhangaoyu05&theme=default"/>
 </picture>
 
 </div>
@@ -92,8 +92,8 @@ const zayu = {
 ### 🐍 Watch my contribution graph get eaten by the snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Zayu2005/Zayu2005/blob/output/github-snake-dark.svg" />
-  <img src="https://github.com/Zayu2005/Zayu2005/blob/output/github-snake.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zhangaoyu05/zhangaoyu05/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/zhangaoyu05/zhangaoyu05/output/github-snake.svg"/>
 </picture>
 
 </div>
@@ -104,6 +104,6 @@ const zayu = {
 
 **Thanks for visiting!** 😊
 
-![Profile Views](https://komarev.com/ghpvc/?username=Zayu2005&color=blueviolet&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=zhangaoyu05&color=blueviolet&style=flat-square)
 
 </div>
